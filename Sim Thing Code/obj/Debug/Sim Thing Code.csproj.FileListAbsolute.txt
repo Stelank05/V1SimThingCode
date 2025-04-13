@@ -1,0 +1,21 @@
+E:\Sim Thing\Sim Thing Code\bin\Debug\Sim Thing Code.exe.config
+E:\Sim Thing\Sim Thing Code\bin\Debug\Sim Thing Code.exe
+E:\Sim Thing\Sim Thing Code\bin\Debug\Sim Thing Code.pdb
+E:\Sim Thing\Sim Thing Code\obj\Debug\Sim Thing Code.csproj.AssemblyReference.cache
+E:\Sim Thing\Sim Thing Code\obj\Debug\Sim Thing Code.csproj.CoreCompileInputs.cache
+E:\Sim Thing\Sim Thing Code\obj\Debug\Sim Thing Code.exe
+E:\Sim Thing\Sim Thing Code\obj\Debug\Sim Thing Code.pdb
+D:\Sim Thing\Sim Thing Code\bin\Debug\Sim Thing Code.exe.config
+D:\Sim Thing\Sim Thing Code\bin\Debug\Sim Thing Code.exe
+D:\Sim Thing\Sim Thing Code\bin\Debug\Sim Thing Code.pdb
+D:\Sim Thing\Sim Thing Code\obj\Debug\Sim Thing Code.csprojAssemblyReference.cache
+D:\Sim Thing\Sim Thing Code\obj\Debug\Sim Thing Code.csproj.CoreCompileInputs.cache
+D:\Sim Thing\Sim Thing Code\obj\Debug\Sim Thing Code.exe
+D:\Sim Thing\Sim Thing Code\obj\Debug\Sim Thing Code.pdb
+C:\Users\Steph\Documents\Excel Sims\Sim Thing\Sim Thing Code\bin\Debug\Sim Thing Code.exe.config
+C:\Users\Steph\Documents\Excel Sims\Sim Thing\Sim Thing Code\bin\Debug\Sim Thing Code.exe
+C:\Users\Steph\Documents\Excel Sims\Sim Thing\Sim Thing Code\bin\Debug\Sim Thing Code.pdb
+C:\Users\Steph\Documents\Excel Sims\Sim Thing\Sim Thing Code\obj\Debug\Sim Thing Code.csprojAssemblyReference.cache
+C:\Users\Steph\Documents\Excel Sims\Sim Thing\Sim Thing Code\obj\Debug\Sim Thing Code.csproj.CoreCompileInputs.cache
+C:\Users\Steph\Documents\Excel Sims\Sim Thing\Sim Thing Code\obj\Debug\Sim Thing Code.exe
+C:\Users\Steph\Documents\Excel Sims\Sim Thing\Sim Thing Code\obj\Debug\Sim Thing Code.pdb

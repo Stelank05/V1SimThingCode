@@ -1,0 +1,25 @@
+﻿Driver Name,Car No,Team Name,Chassis,Engine,Tyres,OVR,Reliability
+Driver 1,#1,Main Series Team 1,Dallara,Honda,Firestone,791,210
+Driver 2,#2,Main Series Team 1,Dallara,Honda,Firestone,788,214
+Driver 3,#3,Main Series Team 1,Dallara,Honda,Firestone,789,213
+Driver 4,#4,Main Series Team 2,Reynard,Chevrolet,Michelin,801,214
+Driver 5,#5,Main Series Team 2,Reynard,Chevrolet,Michelin,802,214
+Driver 6,#6,Main Series Team 2,Reynard,Chevrolet,Michelin,798,213
+Driver 7,#7,Main Series Team 3,Tatuus,Toyota,Pirelli,790,215
+Driver 8,#8,Main Series Team 3,Tatuus,Toyota,Pirelli,791,215
+Driver 9,#9,Main Series Team 3,Tatuus,Toyota,Pirelli,795,215
+Driver 10,#10,Main Series Team 4,Lola,Porsche,Hankook,797,208
+Driver 11,#11,Main Series Team 4,Lola,Porsche,Hankook,792,207
+Driver 12,#12,Main Series Team 4,Lola,Porsche,Hankook,796,208
+Driver 13,#14,Main Series Team 5,Dallara,Honda,Firestone,783,214
+Driver 14,#15,Main Series Team 5,Dallara,Honda,Firestone,783,214
+Driver 15,#16,Main Series Team 5,Dallara,Honda,Firestone,786,215
+Driver 16,#17,Main Series Team 6,Reynard,Chevrolet,Michelin,797,207
+Driver 17,#18,Main Series Team 6,Reynard,Chevrolet,Michelin,802,210
+Driver 18,#19,Main Series Team 6,Reynard,Chevrolet,Michelin,799,208
+Driver 19,#20,Main Series Team 7,Tatuus,Toyota,Pirelli,789,216
+Driver 20,#21,Main Series Team 7,Tatuus,Toyota,Pirelli,793,217
+Driver 21,#22,Main Series Team 7,Tatuus,Toyota,Pirelli,791,219
+Driver 22,#23,Main Series Team 8,Lola,Porsche,Hankook,796,211
+Driver 23,#24,Main Series Team 8,Lola,Porsche,Hankook,793,212
+Driver 24,#25,Main Series Team 8,Lola,Porsche,Hankook,797,210
